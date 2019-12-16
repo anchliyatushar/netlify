@@ -1,6 +1,6 @@
 backend:
   name: gitlab
-  repo: anchliyatushar/netlify-t
+  repo: "anchliyatushar/netlify"
   branch: master
 media_folder: "images/uploads"
 collections:
